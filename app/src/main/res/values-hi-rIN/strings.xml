@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="enter_your_username">अपने उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="enter_your_password">अपना पासवर्ड डालें</string>
+    <string name="login">लॉग इन करें</string>
+
+</resources>

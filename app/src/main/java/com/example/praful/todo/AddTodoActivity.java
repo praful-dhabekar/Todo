@@ -39,6 +39,7 @@ public class AddTodoActivity extends AppCompatActivity {
                 intent.putExtra(TODO, todo);
                 setResult(RESULT_OK, intent);
                 finish();
+
             }
         });
     }
